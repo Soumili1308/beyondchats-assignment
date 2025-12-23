@@ -1,6 +1,8 @@
 *.log
 .DS_Store
 .env
+/node-llm/.env
+/backend-laravel/.env
 .env.backup
 .env.production
 .phpactor.json
