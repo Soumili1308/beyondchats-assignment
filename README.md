@@ -173,11 +173,9 @@ npm install
 npm run dev
 
 
-### Open browser:
+Live deployment was skipped due to time constraints.
+The application runs fully in local development.
 
-http://localhost:5173
-http://127.0.0.1:8000/api/articles
-http://127.0.0.1:8000
 
 ### Repository Structure
 beyondchats-assignment/
